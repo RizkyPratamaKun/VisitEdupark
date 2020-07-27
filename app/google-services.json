@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979569843179",
+    "firebase_url": "https://visitaedupark.firebaseio.com",
+    "project_id": "visitaedupark",
+    "storage_bucket": "visitaedupark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979569843179:android:b3ad7c358c9dd95bf117ae",
+        "android_client_info": {
+          "package_name": "com.example.visitaedupark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979569843179-rgaqgmv41tlq5rhsr0ocqlu2qjvsfs6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADtSqV07oXmD3sxQqgeoaOUh90sOEIZZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979569843179-rgaqgmv41tlq5rhsr0ocqlu2qjvsfs6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
